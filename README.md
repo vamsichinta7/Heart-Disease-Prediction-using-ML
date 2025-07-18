@@ -94,12 +94,6 @@ Key features impacting predictions include:
 - Add real-time wearable health data integration
 - Build a mobile app for live monitoring and predictions
 
-## 📄 Authors
-
-- **Vamsi Chinta** – VIT-AP University – [sekhara.22bce9499@vitapstudent.ac.in](mailto:sekhara.22bce9499@vitapstudent.ac.in)
-- **Mani Viswanadhula**
-- **Karthikeya Gummadi**
-
 ## 📃 License
 
 This project is open-source and free to use for educational purposes.
